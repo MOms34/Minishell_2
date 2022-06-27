@@ -21,7 +21,7 @@ SRC	=	src/main.c \
 		src/tree_creation.c \
 		src/tree_traversal.c \
 
-NAME	=	42sh
+NAME	=	mysh
 
 CC	=	gcc
 
